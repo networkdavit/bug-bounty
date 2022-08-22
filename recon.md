@@ -21,7 +21,7 @@ Do they use a framework like AngularJS or CakePHP ?
 What’s the version of Apache ?
 Do they use template engine like Jinja2 or Smarty ?
 
-### Did you say Google Dorks ?
+### Google Dorks
 
 For a good recon, I can’t forget Google Dorks and others tips like that. Google index many URLs and files and it could be useful to try to extract them.
 
