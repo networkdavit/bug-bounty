@@ -34,7 +34,7 @@ site:subdomain.target.com
 site:target.com inurl:auth
 site:target.com inurl:dev
 
-### Seclists wordlist is the best
+### Seclists is the best
 
 ### Two good tools for content discovery
 
